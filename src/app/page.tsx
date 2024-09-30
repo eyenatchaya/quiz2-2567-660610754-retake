@@ -20,7 +20,7 @@ export default function Home() {
         className="mx-auto p-3 rounded rounded-3 shadow-sm bg-white"
       >
         {/* Post Owner Example*/}
-        <PostOwnner ImagePath={"/profileImages/proflie.jpg"} username={"Natcahaya Palee 660610754"} postTitle="Quiz ง่ายจังเลยครับ ขอยาก ๆ กว่านี้ได้ไหม #261207" likes={100} />
+        <PostOwnner ImagePath={"/profileImages/proflie.jpg"} username={"Natchaya Palee 660610754"} postTitle="Quiz ง่ายจังเลยครับ ขอยาก ๆ กว่านี้ได้ไหม #261207" likes={100} />
 
         {/* Comment Example */}
         
